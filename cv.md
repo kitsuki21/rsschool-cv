@@ -13,8 +13,7 @@
 
 ## About me
 
-Моя цель это - достижение финасовой независимости. Мои сильные стороны это: коммуникабельность, работа в команде, не боюсь пробовать, что-то новое,
-Опыта работы разработчиком нет. Готов учиться и узнавать, что-то новое.
+My goal is to achieve financial independence. My strengths are: sociability, teamwork, not afraid to try something new, I have no experience as a developer. I am ready to learn and learn something new.
 
 ---
 
