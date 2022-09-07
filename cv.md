@@ -9,21 +9,15 @@
 - Discord: Kolya Voronov(@kitsuki21)
 - Github: [kitsuki21](https://github.com/kitsuki21)
 
----
-
 ## About me
 
 My goal is to achieve financial independence. My strengths are: sociability, teamwork, not afraid to try something new, I have no experience as a developer. I am ready to learn and learn something new.
-
----
 
 ## Skills
 
 - HTML
 - CSS
 - Javascript (basic)
-
----
 
 ## Code Example
 
@@ -36,20 +30,14 @@ return firstString.length === secondString.length
 }
 ```
 
----
-
 ## Experience
 
 I have no work experience
-
----
 
 ## Education
 
 University: Belarusian State Agricultural Academy, specialty engineer technologist
 
----
-
-# English
+## English
 
 Beginner (A1)
