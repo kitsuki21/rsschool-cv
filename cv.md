@@ -21,12 +21,13 @@ My goal is to achieve financial independence. My strengths are: sociability, tea
 
 ## Code Example
 
-```function XO(str) {
-const array = str.toUpperCase().split('')
-const firstString = array.filter((el) => el === 'X')
-const secondString = array.filter((el) => el === 'O')
+```
+function XO(str) {
+    const array = str.toUpperCase().split('')
+    const firstString = array.filter((el) => el === 'X')
+    const secondString = array.filter((el) => el === 'O')
 
-return firstString.length === secondString.length
+    return firstString.length === secondString.length
 }
 ```
 
