@@ -84,6 +84,11 @@ span {
   margin-left: 80px;
 }
 
+.cod {
+  padding-top: 20px;
+  width: 401px;
+}
+
 footer {
   width: 1024px;
   margin: 0 20px 0 20px auto;
